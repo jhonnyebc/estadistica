@@ -6,5 +6,4 @@ Trabajos de estadística y análisis de datos en Python:
 - **Estadistica3**: análisis exploratorio y de normalidad.
 - **google-trends-renewables**: análisis de Google Trends sobre energías renovables.
 
-- **ParcialEstadistica**: carpeta del parcial (solo plantilla de PyCharm por ahora).
 
