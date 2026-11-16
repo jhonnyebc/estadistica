@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+venv/
+.idea/
+.ipynb_checkpoints/
+Estadistica3/04 - estudiantes.csv
